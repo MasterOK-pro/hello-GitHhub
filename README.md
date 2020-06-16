@@ -1,4 +1,4 @@
-# hello-GitHhub
+# hello-GitHub
 test git repository
 
 略略略
